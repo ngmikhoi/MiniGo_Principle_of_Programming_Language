@@ -1,0 +1,7 @@
+
+        func sum(arr [2]float) float { return arr[0] + arr[1]; }
+        func main() {
+            var arr [2]float = [2]float{1.5, 2.5}
+            putFloatLn(sum(arr))
+        }
+        

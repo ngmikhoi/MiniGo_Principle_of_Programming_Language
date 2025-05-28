@@ -1,0 +1,6 @@
+
+        type A struct { i int; }
+        func X() {
+            var a = A
+        }
+        

@@ -1,0 +1,9 @@
+
+        type Printer interface { print(); }
+        type Message struct { text string; }
+        func (m Message) print() { putStringLn(m.text); }
+        func main() {
+            var p Printer = Message{text: "Hello"}
+            p.print()
+        }
+        

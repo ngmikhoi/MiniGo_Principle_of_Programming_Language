@@ -1,0 +1,5 @@
+
+            func (Point p) distance() float {
+                return p.x * p.x + p.y * p.y;
+            }
+        

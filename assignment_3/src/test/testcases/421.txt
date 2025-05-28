@@ -1,0 +1,1 @@
+Program([VarDecl(a,BinaryOp(IntLiteral(1),+,FloatLiteral(2.3))),VarDecl(b,FloatType,UnaryOp(-,Id(a))),VarDecl(c,Id(d))])

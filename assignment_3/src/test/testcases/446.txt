@@ -1,0 +1,9 @@
+
+        func Ha(a string, b boolean) float {
+            var c int
+        }
+        func main() string {
+            var x = Ha("ha", 0) + 7
+        }
+        
+        

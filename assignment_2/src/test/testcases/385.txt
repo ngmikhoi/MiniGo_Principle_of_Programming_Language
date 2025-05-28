@@ -1,0 +1,5 @@
+
+            func (Student s) getGPA() float {
+                return s.gpa;
+            }
+        

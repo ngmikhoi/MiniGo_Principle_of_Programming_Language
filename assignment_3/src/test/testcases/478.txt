@@ -1,0 +1,7 @@
+
+        var arr = [2]int{10, 20}
+        var marr = [2][3]int{{1, 2, 3}, {4, 5, 6}}
+        func main(){
+            marr[0] := arr
+        }
+        

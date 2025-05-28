@@ -1,0 +1,11 @@
+
+            func main() {
+                var x int = 10 /* Outer comment
+                /* Nested comment */
+                Still in outer comment */
+                for x > 0 {
+                    print(x)
+                    x = x - 1
+                }
+            }
+            

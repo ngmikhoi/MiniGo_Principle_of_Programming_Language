@@ -1,0 +1,6 @@
+
+            type Car struct {
+                brand string;
+                year int;
+            }
+        

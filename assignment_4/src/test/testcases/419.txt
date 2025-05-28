@@ -1,0 +1,7 @@
+
+        const SIZE = 3
+        func main() {
+            var arr [SIZE]int = [SIZE]int{1, 2, 3}
+            putIntLn(arr[2])
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(productOfArray,[ParDecl(arr,ArrayType(IntType,[IntLiteral(5)]))],IntType,Block([VarDecl(product,IntLiteral(1)),For(Assign(Id(i),IntLiteral(0)),BinaryOp(Id(i),<,IntLiteral(5)),Assign(Id(i),BinaryOp(Id(i),+,IntLiteral(1))),Block([Assign(Id(product),BinaryOp(Id(product),*,ArrayCell(Id(arr),[Id(i)])))])),Return(Id(product))]))])

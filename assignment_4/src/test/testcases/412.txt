@@ -1,0 +1,10 @@
+
+        func main() {
+            var x int = 5
+            if (x > 3) {
+                putStringLn("Greater")
+            } else {
+                putStringLn("Less or Equal")
+            }
+        }
+        

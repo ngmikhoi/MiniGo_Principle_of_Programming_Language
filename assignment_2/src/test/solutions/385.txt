@@ -1,0 +1,1 @@
+Program([MethodDecl(Student,Id(s),FuncDecl(getGPA,[],FloatType,Block([Return(FieldAccess(Id(s),gpa))])))])

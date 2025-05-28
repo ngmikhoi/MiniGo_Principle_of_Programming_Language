@@ -1,0 +1,1 @@
+Program([FuncDecl(sayHello,[],VoidType,Block([Return(StringLiteral("Hello"))]))])

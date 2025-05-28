@@ -1,0 +1,1 @@
+var array = [4]int{2, 1.e-0, "hello", 3.14};

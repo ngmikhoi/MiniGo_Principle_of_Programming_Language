@@ -1,0 +1,6 @@
+
+        var a int;
+        type a struct {
+            name string
+        }
+        

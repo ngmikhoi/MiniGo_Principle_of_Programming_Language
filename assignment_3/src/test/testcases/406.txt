@@ -1,0 +1,1 @@
+Program([ConstDecl(bro,IntLiteral(1)),VarDecl(bro,IntLiteral(2))])

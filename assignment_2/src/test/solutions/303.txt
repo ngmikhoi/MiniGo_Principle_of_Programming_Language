@@ -1,0 +1,1 @@
+Program([FuncDecl(compare,[ParDecl(x,IntType),ParDecl(y,IntType)],BoolType,Block([Return(BinaryOp(Id(x),>,Id(y)))]))])

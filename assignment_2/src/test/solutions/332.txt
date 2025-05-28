@@ -1,0 +1,1 @@
+Program([ConstDecl(speedOfLight,IntLiteral(299792458))])

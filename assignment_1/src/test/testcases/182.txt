@@ -1,0 +1,12 @@
+
+            func checkNumber(n int) bool {
+                /* Checking number
+                /* Nested checking */
+                End of comment */
+                if n > 0 {
+                    return true
+                } else {
+                    return false
+                }
+            }
+            

@@ -1,0 +1,11 @@
+
+            type Engine struct {
+                horsepower int
+                type string
+            }
+            
+            type Car struct {
+                model string
+                engine Engine
+            }
+        

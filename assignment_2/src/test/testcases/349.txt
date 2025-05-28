@@ -1,0 +1,6 @@
+
+            func kool() {
+                break;
+                continue;
+            }
+        

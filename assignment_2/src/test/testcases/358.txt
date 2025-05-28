@@ -1,0 +1,9 @@
+
+            func sumRange(start int, end int) int {
+                var total = 0;
+                for i := start; i <= end; i += 1 {
+                    total += i;
+                }
+                return total;
+            }
+        

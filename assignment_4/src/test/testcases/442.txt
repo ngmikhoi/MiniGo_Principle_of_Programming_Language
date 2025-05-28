@@ -1,0 +1,6 @@
+
+        func main() {
+            var arr [3]int = [3]int{10, 20, 30}
+            putIntLn(arr[1])
+        }
+        

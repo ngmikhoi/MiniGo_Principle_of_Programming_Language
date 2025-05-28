@@ -1,0 +1,5 @@
+
+            func checkEven(n int) boolean {
+                return n % 2 == 0;
+            }
+        

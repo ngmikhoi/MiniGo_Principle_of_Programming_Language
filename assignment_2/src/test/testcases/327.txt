@@ -1,0 +1,9 @@
+
+            func power(base int, exp int) int {
+                var result = 1;
+                for i := 0; i < exp; i += 1 {
+                    result *= base;
+                }
+                return result;
+            }
+        

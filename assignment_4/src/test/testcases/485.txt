@@ -1,0 +1,14 @@
+
+        type Counter struct { value int; }
+        func (c Counter) sumToN(n int) int {
+            var sum int = 0
+            for i := 1; i <= n; i += 1 {
+                sum += c.value
+            }
+            return sum
+        }
+        func main() {
+            var c Counter = Counter{value: 2}
+            putIntLn(c.sumToN(3))
+        }
+        

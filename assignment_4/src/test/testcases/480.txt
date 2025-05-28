@@ -1,0 +1,14 @@
+
+        func foo() boolean {
+            putStringLn("Not shortcut!");
+            return true;
+        }
+        var x = !boo() && foo()
+        func main() {
+            putBoolLn(x)
+        }
+        func boo() boolean {
+            putStringLn("Is shortcut!");
+            return true;
+        }
+        

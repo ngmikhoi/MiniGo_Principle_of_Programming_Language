@@ -1,0 +1,8 @@
+
+        type Calculator struct { x float; }
+        func (c Calculator) double() float { return c.x * 2.0; }
+        func main() {
+            var c Calculator = Calculator{x: 1.5}
+            putFloatLn(c.double())
+        }
+        

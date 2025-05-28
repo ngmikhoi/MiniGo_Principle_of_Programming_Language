@@ -1,0 +1,3 @@
+
+            const avogadro = 6.022e+23;
+        

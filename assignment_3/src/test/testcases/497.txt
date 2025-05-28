@@ -1,0 +1,8 @@
+
+        var y int = 4;
+        func Add(x int) int {
+            y := 3;
+            var y = 5;
+            return 4;
+        }
+        

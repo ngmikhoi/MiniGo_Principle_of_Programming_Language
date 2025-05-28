@@ -1,0 +1,1 @@
+Program([FuncDecl(getValueDouble,[ParDecl(num,IntType)],IntType,Block([Return(BinaryOp(Id(num),*,IntLiteral(2)))]))])

@@ -1,0 +1,10 @@
+
+        type Processor interface { process(d Data) int; }
+        type Data struct { value int; }
+        type Worker struct { id int; }
+        func (w Worker) process(d Data) int { return d.value + w.id; }
+        func main() {
+            var p Processor = Worker{id: 10}
+            putIntLn(p.process(Data{value: 5}))
+        }
+        

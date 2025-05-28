@@ -1,0 +1,1 @@
+Type Mismatch: BinaryOp(FuncCall(Ha,[StringLiteral("huhu")]),+,StringLiteral("hihi"))

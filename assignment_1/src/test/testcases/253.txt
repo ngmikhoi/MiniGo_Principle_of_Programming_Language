@@ -1,0 +1,13 @@
+
+            type Animal interface {
+                Speak() string
+            }
+            
+            type Cat struct {
+                weight int
+            }
+            
+            func (c Cat) Speak() string {
+                return "Meow"
+            }
+        

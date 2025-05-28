@@ -1,0 +1,1 @@
+Program([FuncDecl(max,[ParDecl(a,IntType),ParDecl(b,IntType)],IntType,Block([If(BinaryOp(Id(a),>,Id(b)),Block([Return(Id(a))]),Block([Return(Id(b))]))]))])

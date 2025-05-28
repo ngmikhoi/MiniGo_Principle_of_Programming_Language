@@ -1,0 +1,1 @@
+Program([FuncDecl(loop,[],VoidType,Block([For(BooleanLiteral(false),Block([FuncCall(print,[StringLiteral("Running")]),Break()]))]))])

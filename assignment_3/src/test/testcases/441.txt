@@ -1,0 +1,10 @@
+
+        func main() string {
+            var arr = [3]int{10, 20, 30}
+            var value int
+            for index, value := range arr {
+            // index: 0, 1, 2
+            // value: 10, 20, 30
+            } 
+        }
+        

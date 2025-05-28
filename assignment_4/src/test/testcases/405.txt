@@ -1,0 +1,6 @@
+
+        func main() {
+            var x int = 10
+            putIntLn(x * 2)
+        }
+        

@@ -1,0 +1,8 @@
+
+            type Counter struct {
+                count int;
+                func increment() {
+                    self.increment();
+                }
+            }
+        

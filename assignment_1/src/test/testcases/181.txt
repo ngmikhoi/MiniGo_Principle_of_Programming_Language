@@ -1,0 +1,9 @@
+
+            type Person struct {
+                /* Name of person
+                /* Nested description */
+                More details */
+                name string
+                age int
+            }
+            

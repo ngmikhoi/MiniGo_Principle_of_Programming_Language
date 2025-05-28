@@ -1,0 +1,1 @@
+if /* condition */ (x > 0) { return; }

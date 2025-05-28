@@ -1,0 +1,5 @@
+
+                func getValueDouble(num int) int { 
+                    return num*2; 
+                }
+                

@@ -1,0 +1,7 @@
+
+        type Container struct { values [2]int; }
+        func main() {
+            var c Container = Container{values: [2]int{10, 20}}
+            putIntLn(c.values[1])
+        }
+        

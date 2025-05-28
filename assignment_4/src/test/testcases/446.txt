@@ -1,0 +1,7 @@
+
+        type Data struct { value int; }
+        func main() {
+            var d Data
+            putIntLn(d.value)
+        }
+        

@@ -1,0 +1,7 @@
+
+        type Flag struct { active boolean; }
+        func main() {
+            var f Flag = Flag{active: true}
+            putBoolLn(f.active)
+        }
+        

@@ -1,0 +1,6 @@
+
+        func main() {
+            var x float = 2.0
+            putBoolLn(x == 2.0)
+        }
+        

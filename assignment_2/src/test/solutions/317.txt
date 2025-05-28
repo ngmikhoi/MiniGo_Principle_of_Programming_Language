@@ -1,0 +1,1 @@
+Program([MethodDecl(Point,Id(p),FuncDecl(distance,[],FloatType,Block([Return(BinaryOp(BinaryOp(FieldAccess(Id(p),x),*,FieldAccess(Id(p),x)),+,BinaryOp(FieldAccess(Id(p),y),*,FieldAccess(Id(p),y))))])))])

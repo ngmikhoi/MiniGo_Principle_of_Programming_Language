@@ -1,0 +1,11 @@
+
+            func inner() { 
+                return
+            } 
+            
+            func outer() {
+                hehehe()
+                hahaha()
+                huhuhu()
+            }
+        

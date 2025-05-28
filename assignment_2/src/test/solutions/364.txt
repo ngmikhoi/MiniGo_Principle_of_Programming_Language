@@ -1,0 +1,1 @@
+Program([StructType(Car,[(brand,StringType),(year,IntType)],[])])

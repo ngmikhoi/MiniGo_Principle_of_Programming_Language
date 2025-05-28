@@ -1,0 +1,4 @@
+
+            var arr [5]int;
+            const value = arr[10];
+        

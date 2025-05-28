@@ -1,0 +1,8 @@
+
+            type Dog struct {
+                name string
+            }
+            func (d Dog) Bark() {
+                print("Woof!");
+            }
+        

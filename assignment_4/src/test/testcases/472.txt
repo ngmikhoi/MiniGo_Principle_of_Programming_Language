@@ -1,0 +1,11 @@
+
+        type Worker interface { work() string; }
+        type Robot struct { id int; }
+        type Human struct { name string; }
+        func (r Robot) work() string { return "Robot"; }
+        func (h Human) work() string { return h.name; }
+        func main() {
+            var w Worker = Human{name: "Alice"}
+            putStringLn(w.work())
+        }
+        

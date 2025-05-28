@@ -1,0 +1,11 @@
+
+            func checkValue(x int) {
+                if (x) {
+                    print("One");
+                }else if(y){
+                    print("Two");
+                } else{
+                    print("Other");
+                }
+            }
+        

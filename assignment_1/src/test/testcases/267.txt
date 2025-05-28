@@ -1,0 +1,6 @@
+
+            type Employee struct {
+                name string;
+                salary float;
+            }
+        

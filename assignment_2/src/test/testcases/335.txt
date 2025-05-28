@@ -1,0 +1,5 @@
+
+            func (Triangle t) area() float {
+                return 0.5 * t.base * t.height;
+            }
+        

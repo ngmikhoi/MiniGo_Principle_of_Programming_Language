@@ -1,0 +1,3 @@
+
+            var num_ber int = 10;
+        

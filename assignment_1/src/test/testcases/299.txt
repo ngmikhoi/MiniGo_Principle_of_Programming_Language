@@ -1,0 +1,10 @@
+
+            type Engine struct {
+                horsepower int;
+            }
+            type Car struct {
+                model string;
+                engine Engine;
+            }
+            const myCar = Car{a: "Tesla", b: Engine{c: 400}};
+        

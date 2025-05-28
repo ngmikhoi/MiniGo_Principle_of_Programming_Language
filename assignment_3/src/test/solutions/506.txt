@@ -1,0 +1,1 @@
+Type Mismatch: Assign(FieldAccess(Id(x),i),BinaryOp(IntLiteral(1),+,MethodCall(Id(x),c,[])))

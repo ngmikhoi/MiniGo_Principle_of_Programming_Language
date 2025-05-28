@@ -1,0 +1,1 @@
+Program([StructType(Broo,[(bro,IntType)],[]),InterfaceType(Broo,[Prototype(bro,[],VoidType)])])

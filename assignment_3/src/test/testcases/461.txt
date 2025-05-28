@@ -1,0 +1,22 @@
+
+        func Y() string {
+            var x = Ha("hihi") + 7
+            var arr = [3]int{10, 20, 30}
+            arr := [3]int{10, 20, 35}
+            var value int
+            for _, value := range arr {
+                var idx = 2
+                var y = arr[idx + 0]
+                var x = Ha("hehe") + 6
+                const o = 6/3
+                const c = idx*2*2/4+7-6/idx-o*2+o/2
+                var ar [3]int = arr
+            }
+        }
+        func Ha(a string) float {
+            var c int
+            var x = Ha("flew","flown") + 7
+            const s = "hello" + "haha"
+            var u = Ha("flew","flown") + 7
+        }
+        

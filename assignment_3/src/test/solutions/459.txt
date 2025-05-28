@@ -1,0 +1,1 @@
+Type Mismatch: ArrayCell(Id(arr),[BinaryOp(Id(idx),-,IntLiteral(2)),IntLiteral(0)])

@@ -1,0 +1,1 @@
+Program([MethodDecl(Person,Id(p),FuncDecl(getAge,[],IntType,Block([Return(FieldAccess(Id(p),age))])))])

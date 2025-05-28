@@ -1,0 +1,6 @@
+
+        func main() {
+            var x float = 2.0
+            putFloatLn(x * 3.0 + 1.0)
+        }
+        

@@ -1,0 +1,1 @@
+Program([StructType(Team,[(members,ArrayType(Id(Person),[IntLiteral(5)]))],[])])

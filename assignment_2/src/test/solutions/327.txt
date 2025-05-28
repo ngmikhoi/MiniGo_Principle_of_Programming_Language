@@ -1,0 +1,1 @@
+Program([FuncDecl(power,[ParDecl(base,IntType),ParDecl(exp,IntType)],IntType,Block([VarDecl(result,IntLiteral(1)),For(Assign(Id(i),IntLiteral(0)),BinaryOp(Id(i),<,Id(exp)),Assign(Id(i),BinaryOp(Id(i),+,IntLiteral(1))),Block([Assign(Id(result),BinaryOp(Id(result),*,Id(base)))])),Return(Id(result))]))])

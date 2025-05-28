@@ -1,0 +1,1 @@
+Program([MethodDecl(Animal,Id(a),FuncDecl(getSpecies,[],StringType,Block([Return(FieldAccess(Id(a),species))])))])

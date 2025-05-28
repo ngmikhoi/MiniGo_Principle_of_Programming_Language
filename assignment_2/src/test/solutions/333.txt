@@ -1,0 +1,1 @@
+Program([FuncDecl(inner,[],VoidType,Block([Return()])),FuncDecl(outer,[],VoidType,Block([FuncCall(hehehe,[]),FuncCall(hahaha,[]),FuncCall(huhuhu,[])]))])

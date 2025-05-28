@@ -1,0 +1,10 @@
+
+            func foo(){
+                matrix[0][1+1] := [2][4]float{{1.1, a, 0., 7.e-9}, {3.13, 4.4, b, 2.0e10}}
+                data[99-a*b+c/d%f].info.details[2] := StructType{field1: 10, field2: "text"};
+            }
+
+            func test_assign() {
+                result := records[5].entries[i-7].compute(42,g,h,(u+7)*3,p-9);
+            }
+        

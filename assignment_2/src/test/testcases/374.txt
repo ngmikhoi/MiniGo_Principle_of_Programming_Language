@@ -1,0 +1,6 @@
+
+            type Animal struct {
+                species string;
+                age int;
+            }
+        

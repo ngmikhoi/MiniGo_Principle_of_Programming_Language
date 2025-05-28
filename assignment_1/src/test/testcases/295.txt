@@ -1,0 +1,9 @@
+
+            type Employee struct {
+                name string;
+            }
+            var employees [3]Employee = [3]Employee{
+                {"Alice","David"},
+                {"Bob"},
+                {"Charlie"}};
+        

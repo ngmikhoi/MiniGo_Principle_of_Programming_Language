@@ -1,0 +1,9 @@
+
+            type Person struct {
+                name string;
+                age int;
+            }
+            func greet(p Person) {
+                print("Hello " + p.name);
+            }
+        

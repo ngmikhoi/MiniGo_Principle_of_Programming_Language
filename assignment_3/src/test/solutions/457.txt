@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(y,ArrayType(FloatType,[IntLiteral(1)]),ArrayCell(Id(arr),[BinaryOp(Id(idx),-,IntLiteral(1))]))

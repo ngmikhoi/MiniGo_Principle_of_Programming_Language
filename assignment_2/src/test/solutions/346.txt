@@ -1,0 +1,1 @@
+Program([FuncDecl(kool,[],VoidType,Block([Assign(Id(a),BinaryOp(Id(a),+,IntLiteral(1))),Assign(Id(b),BinaryOp(Id(b),-,IntLiteral(2))),Assign(Id(c),BinaryOp(Id(c),*,IntLiteral(3)))]))])

@@ -1,0 +1,1 @@
+Program([MethodDecl(Triangle,Id(t),FuncDecl(area,[],FloatType,Block([Return(BinaryOp(BinaryOp(FloatLiteral(0.5),*,FieldAccess(Id(t),base)),*,FieldAccess(Id(t),height)))])))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(factorialIter,[ParDecl(n,IntType)],IntType,Block([VarDecl(result,IntLiteral(1)),For(BinaryOp(Id(n),>,IntLiteral(1)),Block([Assign(Id(result),BinaryOp(Id(result),*,Id(n))),Assign(Id(n),BinaryOp(Id(n),-,IntLiteral(1)))])),Return(Id(result))]))])

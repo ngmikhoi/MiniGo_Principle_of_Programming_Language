@@ -1,0 +1,15 @@
+
+            var a int; 
+            func (x b) c() {
+                return
+            };
+            
+            func (x b) z() {
+                return;
+            }; 
+            type b struct {
+                z string;
+                a int;
+            }; 
+            
+        

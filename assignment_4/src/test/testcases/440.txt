@@ -1,0 +1,9 @@
+
+        type Calculator interface { calc() float; }
+        type Adder struct { x float; }
+        func (a Adder) calc() float { return a.x + 1.0; }
+        func main() {
+            var c Calculator = Adder{x: 2.0}
+            putFloatLn(c.calc())
+        }
+        

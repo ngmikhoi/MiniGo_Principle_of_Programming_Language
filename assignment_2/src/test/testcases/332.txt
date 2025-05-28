@@ -1,0 +1,3 @@
+
+            const speedOfLight = 299792458;
+        

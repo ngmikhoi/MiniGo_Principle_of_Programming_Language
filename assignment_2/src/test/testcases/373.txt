@@ -1,0 +1,9 @@
+
+            type Address struct {
+                city string;
+            }
+            type Person struct {
+                addr Address;
+            }
+            var cityName string = Person{}.addr.city;
+        

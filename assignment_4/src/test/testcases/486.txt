@@ -1,0 +1,9 @@
+
+        func createArray() [3]int { return [3]int{1, 2, 3}; }
+        func main() {
+            var arr [3]int = createArray()
+            for i := 0; i < 3; i += 1 {
+                putIntLn(arr[i])
+            }
+        }
+        

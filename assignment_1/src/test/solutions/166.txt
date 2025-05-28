@@ -1,0 +1,1 @@
+type,Rectangle,struct,{,Width,int,;,Height,int,;,},;,func,(,r,Rectangle,),Area,(,),int,{,return,r,.,Width,*,r,.,Height,;,},;,func,main,(,),{,var,rect,Rectangle,=,Rectangle,{,10,,,5,},;,print,(,rect,.,Area,(,),),;,},;,<EOF>

@@ -1,0 +1,8 @@
+
+        type Point struct { x int; }
+        func getX(p Point) int { return p.x; }
+        func main() {
+            var p Point = Point{x: 15}
+            putIntLn(getX(p))
+        }
+        

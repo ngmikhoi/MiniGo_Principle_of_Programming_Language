@@ -1,0 +1,7 @@
+
+        type Point struct { x int; y int; }
+        func main() {
+            var p Point = Point{x: 5, y: 10}
+            putIntLn(p.y)
+        }
+        

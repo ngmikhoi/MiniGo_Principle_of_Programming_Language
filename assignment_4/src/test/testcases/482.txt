@@ -1,0 +1,7 @@
+
+        type Data struct { value float; }
+        func main() {
+            var d Data = Data{value: 3.14}
+            putFloatLn(d.value)
+        }
+        

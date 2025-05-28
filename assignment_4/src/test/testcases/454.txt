@@ -1,0 +1,8 @@
+
+        type Counter struct { value int; }
+        func (c Counter) add(n int) int { return c.value + n; }
+        func main() {
+            var c Counter = Counter{value: 10}
+            putIntLn(c.add(5))
+        }
+        

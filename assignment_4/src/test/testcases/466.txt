@@ -1,0 +1,8 @@
+
+        type Checker struct { value int; }
+        func (c Checker) isPositive() boolean { return c.value > 0; }
+        func main() {
+            var c Checker = Checker{value: 5}
+            putBoolLn(c.isPositive())
+        }
+        

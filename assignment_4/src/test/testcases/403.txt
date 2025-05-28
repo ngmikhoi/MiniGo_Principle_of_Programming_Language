@@ -1,0 +1,6 @@
+
+        var greeting string = "Hello"
+        func main() {
+            putStringLn(greeting + ", World!")
+        }
+        

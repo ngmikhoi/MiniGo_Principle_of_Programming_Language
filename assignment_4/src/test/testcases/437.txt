@@ -1,0 +1,8 @@
+
+        type Math struct { x int; }
+        func (m Math) square() int { return m.x * m.x; }
+        func main() {
+            var m Math = Math{x: 4}
+            putIntLn(m.square())
+        }
+        

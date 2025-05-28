@@ -1,0 +1,1 @@
+Program([FuncDecl(joinStrings,[ParDecl(a,StringType),ParDecl(b,StringType),ParDecl(sep,StringType)],StringType,Block([Return(BinaryOp(BinaryOp(Id(a),+,Id(sep)),+,Id(b)))]))])

@@ -1,0 +1,18 @@
+
+            var a string;
+            var arr [2][3] string
+            
+            func (x b) c() {
+                arr[2][a] := "haha"
+                return
+            };
+            
+            func (x b) z() {
+                return;
+            }; 
+            type b struct {
+                y string;
+                a int;
+            }; 
+            
+        

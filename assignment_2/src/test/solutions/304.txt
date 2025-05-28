@@ -1,0 +1,1 @@
+Program([StructType(Book,[(title,StringType),(pages,IntType)],[])])

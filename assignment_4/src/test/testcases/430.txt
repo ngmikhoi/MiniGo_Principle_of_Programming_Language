@@ -1,0 +1,9 @@
+
+        type Worker interface { work() int; }
+        type Robot struct { id int; }
+        func (r Robot) work() int { return r.id; }
+        func main() {
+            var w Worker = Robot{id: 42}
+            putIntLn(w.work())
+        }
+        

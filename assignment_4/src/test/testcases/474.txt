@@ -1,0 +1,8 @@
+
+        type Container struct { arr [2]int; }
+        func create() Container { return Container{arr: [2]int{1, 2}}; }
+        func main() {
+            var c Container = create()
+            putIntLn(c.arr[1])
+        }
+        

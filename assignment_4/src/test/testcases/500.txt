@@ -1,0 +1,14 @@
+
+        type ArrayHolder struct { arr [3]int; }
+        func (a ArrayHolder) sum() int {
+            var sum int = 0
+            for i := 0; i < 3; i += 1 {
+                sum += a.arr[i]
+            }
+            return sum
+        }
+        func main() {
+            var h ArrayHolder = ArrayHolder{arr: [3]int{1, 2, 3}}
+            putIntLn(h.sum())
+        }
+        

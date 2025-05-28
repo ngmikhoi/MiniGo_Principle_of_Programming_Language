@@ -1,0 +1,8 @@
+
+        func Add() {
+           return
+        }
+        func main(){
+            var a = Add()  + 3 
+        }
+        

@@ -1,0 +1,1 @@
+Program([StructType(Calculator,[(num1,IntType),(num2,IntType),(op,StringType)],[])])

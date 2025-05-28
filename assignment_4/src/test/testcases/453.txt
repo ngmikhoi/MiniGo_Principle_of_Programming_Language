@@ -1,0 +1,6 @@
+
+        func main() {
+            var arr [2]float = [2]float{1.5, 2.5}
+            putFloatLn(arr[1])
+        }
+        

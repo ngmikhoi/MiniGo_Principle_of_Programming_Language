@@ -1,0 +1,5 @@
+
+            func (Rectangle r) perimeter() float {
+                return 2 * (r.width + r.height);
+            }
+        

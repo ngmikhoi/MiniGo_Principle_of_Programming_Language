@@ -1,0 +1,6 @@
+
+            func getNumber() int {
+                return 42;
+            }
+            var num = getNumber();
+        

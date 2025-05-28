@@ -1,0 +1,1 @@
+const bitwiseAnd = 5 && 3;

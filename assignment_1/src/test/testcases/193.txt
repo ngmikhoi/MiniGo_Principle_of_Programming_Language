@@ -1,0 +1,3 @@
+
+        /* Nested /* in */ comment */ func test() {}
+        

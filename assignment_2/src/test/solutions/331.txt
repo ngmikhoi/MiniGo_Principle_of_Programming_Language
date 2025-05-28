@@ -1,0 +1,1 @@
+Program([FuncDecl(divide,[ParDecl(a,IntType),ParDecl(b,IntType)],IntType,Block([Return(BinaryOp(Id(a),/,Id(b)))]))])

@@ -1,0 +1,8 @@
+
+            func example() {
+                /* Outer comment
+                /* Nested comment */
+                End of outer comment */
+                print("Hello World")
+            }
+            

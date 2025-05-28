@@ -1,0 +1,7 @@
+
+        type Item struct { id int; }
+        func main() {
+            var items [2]Item = [2]Item{Item{id: 1}, Item{id: 2}}
+            putIntLn(items[1].id)
+        }
+        

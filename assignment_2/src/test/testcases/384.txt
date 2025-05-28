@@ -1,0 +1,6 @@
+
+            type Student struct {
+                name string;
+                gpa float;
+            }
+        

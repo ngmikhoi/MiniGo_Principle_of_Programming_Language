@@ -1,0 +1,1 @@
+print(1, /* ignore this */ 2, 3)

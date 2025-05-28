@@ -1,0 +1,7 @@
+
+        func main() {
+            const a = 3
+            var arr [2]int = [a]int{1, 2, 3}
+            return
+        }
+        

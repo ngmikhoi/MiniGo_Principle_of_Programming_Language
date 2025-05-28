@@ -1,0 +1,9 @@
+
+        type ArrayHolder struct { arr [2]int; }
+        func (a ArrayHolder) update() { a.arr[0] := 100; }
+        func main() {
+            var h ArrayHolder = ArrayHolder{arr: [2]int{1, 2}}
+            h.update()
+            putIntLn(h.arr[0])
+        }
+        

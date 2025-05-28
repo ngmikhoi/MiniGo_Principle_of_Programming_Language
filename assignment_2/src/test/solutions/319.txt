@@ -1,0 +1,1 @@
+Program([FuncDecl(compute,[ParDecl(a,IntType),ParDecl(b,IntType)],IntType,Block([Return(BinaryOp(BinaryOp(Id(a),+,BinaryOp(BinaryOp(BinaryOp(Id(b),*,BinaryOp(Id(a),/,Id(b))),-,Id(a)),%,Id(b))),+,IntLiteral(5)))]))])

@@ -1,0 +1,9 @@
+
+        type Processor interface { process(x int) int; }
+        type Multiplier struct { factor int; }
+        func (m Multiplier) process(x int) int { return m.factor * x; }
+        func main() {
+            var p Processor = Multiplier{factor: 3}
+            putIntLn(p.process(4))
+        }
+        

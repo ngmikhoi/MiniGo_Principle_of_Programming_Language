@@ -1,0 +1,9 @@
+
+        func main() {
+            var i int = 10
+            for i := 0; i < 2; i += 1 {
+                putIntLn(i)
+            }
+            putIntLn(i)
+        }
+        

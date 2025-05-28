@@ -1,0 +1,8 @@
+
+        type Inner struct { value int; }
+        type Outer struct { arr [2]Inner; }
+        func main() {
+            var o Outer = Outer{arr: [2]Inner{Inner{value: 1}, Inner{value: 2}}}
+            putIntLn(o.arr[1].value)
+        }
+        

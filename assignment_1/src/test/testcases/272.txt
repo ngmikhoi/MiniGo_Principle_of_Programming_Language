@@ -1,0 +1,5 @@
+
+            func getData() (int, string) {
+                return 10, "hello";
+            }
+        

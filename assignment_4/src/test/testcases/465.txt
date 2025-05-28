@@ -1,0 +1,6 @@
+
+        func main() {
+            var arr [2]boolean = [2]boolean{true, false}
+            putBoolLn(arr[1])
+        }
+        

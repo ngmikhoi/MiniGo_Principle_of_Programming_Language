@@ -1,0 +1,9 @@
+
+        type Scaler interface { scale(x float) float; }
+        type Multiplier struct { factor float; }
+        func (m Multiplier) scale(x float) float { return m.factor * x; }
+        func main() {
+            var s Scaler = Multiplier{factor: 2.0}
+            putFloatLn(s.scale(3.0))
+        }
+        

@@ -1,0 +1,1 @@
+Program([StructType(Address,[(city,StringType)],[]),StructType(Person,[(addr,Id(Address))],[]),VarDecl(cityName,StringType,FieldAccess(FieldAccess(StructLiteral(Person,[]),addr),city))])

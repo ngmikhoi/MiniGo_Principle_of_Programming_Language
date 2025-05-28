@@ -1,0 +1,6 @@
+
+            type Triangle struct {
+                base float;
+                height float;
+            }
+        

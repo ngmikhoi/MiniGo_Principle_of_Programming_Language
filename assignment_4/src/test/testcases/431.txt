@@ -1,0 +1,10 @@
+
+        func main() {
+            var x int = 5
+            if (x > 3) {
+                if (x < 7) {
+                    putStringLn("In range")
+                }
+            }
+        }
+        

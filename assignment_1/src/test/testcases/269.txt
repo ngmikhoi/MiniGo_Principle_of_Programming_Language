@@ -1,0 +1,5 @@
+
+            func createPerson() Person {
+                return Person{name: "John", age: 30};
+            }
+        

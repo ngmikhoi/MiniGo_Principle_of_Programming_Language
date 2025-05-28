@@ -1,0 +1,9 @@
+
+        func main() {
+            var x int = 3
+            for x > 0 {
+                putIntLn(x)
+                x -= 1
+            }
+        }
+        

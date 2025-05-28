@@ -1,0 +1,9 @@
+
+            func conditionalFunctionLoop() {
+                for i := 0; i < 5; i += 1 {
+                    if (checkValue(i)) {
+                        print(i);
+                    }
+                }
+            }
+        

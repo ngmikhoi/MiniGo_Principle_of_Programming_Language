@@ -1,0 +1,6 @@
+
+        const pi = 3.14
+        func main() {
+            putFloatLn(pi)
+        }
+        

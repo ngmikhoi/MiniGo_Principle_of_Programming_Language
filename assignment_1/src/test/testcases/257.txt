@@ -1,0 +1,13 @@
+
+            func nestedLoops() {
+                var x int = 0;
+                for (x < 10) {
+                    var y int = 0;
+                    for (y < 5) {
+                        print(x, y);
+                        y += 1;
+                    }
+                    x += 1;
+                }
+            }
+        

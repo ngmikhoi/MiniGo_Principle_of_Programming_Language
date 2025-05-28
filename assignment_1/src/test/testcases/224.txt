@@ -1,0 +1,5 @@
+
+            func mystery() {
+                return 42;
+            }
+        

@@ -1,0 +1,1 @@
+Program([ConstDecl(value,BinaryOp(BinaryOp(BinaryOp(Id(a),+,Id(b)),*,BinaryOp(Id(c),-,Id(d))),/,Id(e)))])

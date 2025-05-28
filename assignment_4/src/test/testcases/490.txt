@@ -1,0 +1,9 @@
+
+        func max(a int, b int) int {
+            if (a > b) { return a; }
+            return b;
+        }
+        func main() {
+            putIntLn(max(5, 3))
+        }
+        

@@ -1,0 +1,7 @@
+
+        func createArray() [2]int { return [2]int{1, 2}; }
+        func main() {
+            var arr [2]int = createArray()
+            putIntLn(arr[1])
+        }
+        

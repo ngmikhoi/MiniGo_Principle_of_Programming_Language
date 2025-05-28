@@ -1,0 +1,1 @@
+Program([FuncDecl(kool,[],VoidType,Block([ForEach(Id(index),Id(value),ArrayCell(Id(array),[IntLiteral(2)]),Block([Return()]))]))])

@@ -1,0 +1,21 @@
+
+        func Y() string {
+            var c int
+            var x = Ha("fly") + 7
+            const s = "hello" + "haha"
+            return "hehe" + Y() + "hihi"
+        }
+        func Ha(a string) float {
+            return Ha("huhu")/2.0 + 1*4.5
+        }
+        func Boo(a int, b float, c boolean, d string) boolean{
+            He(10)
+            return Boo(2,4.0,true,"heh") && 1 + 2.0 < Ha("hi") || Y() >= "hihi"
+        }
+        func He(a int) {
+            He(8)
+            He(9)
+            var x = Boo(2,4.0,true,"heh") && 1 + 2 < 7 || "haha" >= "hihi"
+            return
+        }
+        

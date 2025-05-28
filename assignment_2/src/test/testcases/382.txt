@@ -1,0 +1,3 @@
+
+            const eulersNumber = 2.718;
+        

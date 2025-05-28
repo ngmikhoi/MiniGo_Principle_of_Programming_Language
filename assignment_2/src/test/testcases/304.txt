@@ -1,0 +1,6 @@
+
+            type Book struct {
+                title string;
+                pages int;
+            }
+        

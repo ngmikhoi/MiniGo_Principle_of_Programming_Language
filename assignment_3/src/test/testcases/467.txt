@@ -1,0 +1,16 @@
+
+        func Y() string {
+            var c int
+            var x = Ha("fly") + 7
+            const s = "hello" + "haha"
+            return "hehe" + Y() + "hihi"
+        }
+        func Ha(a string) float {
+            return Ha("huhu")/2 + 1
+        }
+        func He(a int) {
+            He(8)
+            He(9)
+            return
+        }
+        

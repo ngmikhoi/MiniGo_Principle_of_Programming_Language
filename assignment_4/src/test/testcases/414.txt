@@ -1,0 +1,10 @@
+
+        func main() {
+            var x int = 10
+            if (x < 11){
+                var x int = 20
+                putIntLn(x)
+            }
+            putIntLn(x)
+        }
+        

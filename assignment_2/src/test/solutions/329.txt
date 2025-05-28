@@ -1,0 +1,1 @@
+Program([FuncDecl(isEven,[ParDecl(n,IntType)],Id(bool),Block([If(BinaryOp(Id(n),==,IntLiteral(0)),Block([Return(BooleanLiteral(true))])),Return(FuncCall(isOdd,[BinaryOp(Id(n),-,IntLiteral(1))]))]))])

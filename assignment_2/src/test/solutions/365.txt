@@ -1,0 +1,1 @@
+Program([MethodDecl(Car,Id(c),FuncDecl(getBrand,[],StringType,Block([Return(FieldAccess(Id(c),brand))])))])

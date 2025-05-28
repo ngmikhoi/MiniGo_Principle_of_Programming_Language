@@ -1,0 +1,5 @@
+
+            func (Person p) getAge() int {
+                return p.age;
+            }
+        

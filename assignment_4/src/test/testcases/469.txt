@@ -1,0 +1,7 @@
+
+        type Holder struct { names [2]string; }
+        func main() {
+            var h Holder = Holder{names: [2]string{"Alice", "Bob"}}
+            putStringLn(h.names[1])
+        }
+        

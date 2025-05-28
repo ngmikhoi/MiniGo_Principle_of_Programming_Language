@@ -1,0 +1,1 @@
+Program([FuncDecl(sumFirstN,[ParDecl(n,IntType)],IntType,Block([Return(BinaryOp(BinaryOp(Id(n),*,BinaryOp(Id(n),+,IntLiteral(1))),/,IntLiteral(2)))]))])

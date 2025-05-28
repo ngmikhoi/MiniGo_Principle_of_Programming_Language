@@ -1,0 +1,13 @@
+
+            func checkValue(x int) {
+                if (x > 0) {
+                    if (x < 10) {
+                        print("Single digit positive");
+                    } else {
+                        print("Two-digit or more");
+                    }
+                } else {
+                    print("Negative or zero");
+                }
+            }
+        

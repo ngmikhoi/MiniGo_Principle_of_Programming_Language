@@ -1,0 +1,9 @@
+
+        type Greeter interface { greet() string; }
+        type Person struct { name string; }
+        func (p Person) greet() string { return "Hi, " + p.name; }
+        func main() {
+            var g Greeter = Person{name: "Bob"}
+            putStringLn(g.greet())
+        }
+        

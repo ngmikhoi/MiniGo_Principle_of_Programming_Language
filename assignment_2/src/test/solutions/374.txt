@@ -1,0 +1,1 @@
+Program([StructType(Animal,[(species,StringType),(age,IntType)],[])])

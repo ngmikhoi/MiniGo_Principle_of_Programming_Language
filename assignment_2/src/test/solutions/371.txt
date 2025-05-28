@@ -1,0 +1,1 @@
+Program([FuncDecl(cube,[ParDecl(n,IntType)],IntType,Block([Return(BinaryOp(BinaryOp(Id(n),*,Id(n)),*,Id(n)))]))])

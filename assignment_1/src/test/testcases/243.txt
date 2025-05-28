@@ -1,0 +1,5 @@
+
+            type Phone struct {
+                brand string = "Apple"
+            }
+        

@@ -1,0 +1,1 @@
+Program([ConstDecl(p,StructLiteral(Person,[(name,StringLiteral("Alice")),(age,IntLiteral(30))]))])

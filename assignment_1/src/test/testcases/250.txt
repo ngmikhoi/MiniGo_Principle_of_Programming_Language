@@ -1,0 +1,5 @@
+
+            func getNumber() int {
+                var x int = 10;
+            }
+        

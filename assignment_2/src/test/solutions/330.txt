@@ -1,0 +1,1 @@
+Program([FuncDecl(greetUser,[ParDecl(name,StringType)],StringType,Block([Return(BinaryOp(BinaryOp(StringLiteral("Hello, "),+,Id(name)),+,StringLiteral("!")))]))])

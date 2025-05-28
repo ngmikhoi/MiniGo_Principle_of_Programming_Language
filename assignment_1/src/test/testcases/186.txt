@@ -1,0 +1,3 @@
+
+        /* Start /* Inner */ End */ type A int
+        

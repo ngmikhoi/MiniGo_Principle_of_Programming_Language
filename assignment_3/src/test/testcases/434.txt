@@ -1,0 +1,4 @@
+
+        const x = 5
+        var arr [x]int = [5]int{1, 2, 3, 4, 5};
+        

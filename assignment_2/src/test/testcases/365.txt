@@ -1,0 +1,5 @@
+
+            func (Car c) getBrand() string {
+                return c.brand;
+            }
+        

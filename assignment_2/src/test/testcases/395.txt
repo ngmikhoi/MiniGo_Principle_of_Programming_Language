@@ -1,0 +1,9 @@
+
+            func productOfArray(arr [5]int) int {
+                var product = 1;
+                for i := 0; i < 5; i += 1 {
+                    product *= arr[i];
+                }
+                return product;
+            }
+        

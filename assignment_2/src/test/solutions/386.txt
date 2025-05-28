@@ -1,0 +1,1 @@
+Program([FuncDecl(infiniteRecursion,[],VoidType,Block([FuncCall(infiniteRecursion,[])]))])

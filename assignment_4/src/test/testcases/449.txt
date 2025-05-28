@@ -1,0 +1,10 @@
+
+        type Worker interface { start() int; stop() int; }
+        type Machine struct { id int; }
+        func (m Machine) start() int { return m.id; }
+        func (m Machine) stop() int { return m.id + 1; }
+        func main() {
+            var w Worker = Machine{id: 10}
+            putIntLn(w.stop())
+        }
+        

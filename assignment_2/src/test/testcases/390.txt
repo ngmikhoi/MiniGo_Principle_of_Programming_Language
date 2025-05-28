@@ -1,0 +1,5 @@
+
+            func kool() {
+                for index, value := range array[2] {return;}
+            }
+        

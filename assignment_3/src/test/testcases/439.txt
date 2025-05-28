@@ -1,0 +1,15 @@
+
+        type Person struct{
+            name string
+            age int
+        }
+        var q Person
+        func main() string {
+            q := Person{name: "Minh", age: 21}
+            var p Person
+            var q float
+            q := 18
+            p := Person{name: "Khoi", age: 21}
+            
+        }
+        

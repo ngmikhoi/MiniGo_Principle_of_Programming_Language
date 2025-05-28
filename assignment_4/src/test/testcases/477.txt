@@ -1,0 +1,8 @@
+
+        type Holder struct { arr [2]int; }
+        func (h Holder) getFirst() int { return h.arr[0]; }
+        func main() {
+            var h Holder = Holder{arr: [2]int{10, 20}}
+            putIntLn(h.getFirst())
+        }
+        

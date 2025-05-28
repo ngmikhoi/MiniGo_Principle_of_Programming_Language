@@ -1,0 +1,5 @@
+
+            func getCoordinates() (int, int) {
+                return (10, 20);
+            }
+        

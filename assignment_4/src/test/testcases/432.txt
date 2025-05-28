@@ -1,0 +1,6 @@
+
+        func add(a int, b int) int { return a + b; }
+        func main() {
+            putIntLn(add(3, 4))
+        }
+        

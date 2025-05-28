@@ -1,0 +1,5 @@
+ 
+            func Add(x int, y, a int, y string, b, c float) int {
+                return x + y;
+            }
+        

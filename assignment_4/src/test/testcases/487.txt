@@ -1,0 +1,8 @@
+
+        type Matrix struct { data [2][2]int; }
+        func (m Matrix) getElement(i int, j int) int { return m.data[i][j]; }
+        func main() {
+            var m Matrix = Matrix{data: [2][2]int{{1, 2}, {3, 4}}}
+            putIntLn(m.getElement(1, 1))
+        }
+        

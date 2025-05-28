@@ -1,0 +1,11 @@
+
+        func foo(){
+            return
+        }
+        func foo1(x int){
+            return ;
+        }
+        func main(){
+            foo1( foo())
+        }
+        

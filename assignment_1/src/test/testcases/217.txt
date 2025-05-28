@@ -1,0 +1,5 @@
+
+            func getValue() {
+                return 5 6;
+            }
+        

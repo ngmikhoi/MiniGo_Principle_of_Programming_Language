@@ -1,0 +1,6 @@
+
+            type kool interface {
+                Add() [2]string;
+                Add() ID;
+            }
+            

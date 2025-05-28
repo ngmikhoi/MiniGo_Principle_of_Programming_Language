@@ -1,0 +1,7 @@
+
+        func sum(arr [2]int) int { return arr[0] + arr[1]; }
+        func main() {
+            var arr [2]int = [2]int{1, 2}
+            putIntLn(sum(arr))
+        }
+        

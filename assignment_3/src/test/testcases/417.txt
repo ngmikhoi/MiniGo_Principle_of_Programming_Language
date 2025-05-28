@@ -1,0 +1,1 @@
+Program([VarDecl(a,BinaryOp(IntLiteral(1),+,StringLiteral(haha))),VarDecl(b,Id(a)),VarDecl(c,Id(d))])

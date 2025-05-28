@@ -1,0 +1,9 @@
+
+        type Checker interface { isValid() boolean; }
+        type Data struct { value int; }
+        func (d Data) isValid() boolean { return d.value > 0; }
+        func main() {
+            var c Checker = Data{value: -1}
+            putBoolLn(c.isValid())
+        }
+        

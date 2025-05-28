@@ -1,0 +1,9 @@
+
+        var a int; 
+        type b struct {
+            b int;
+        };
+        func (x b) a() {
+            var y = 0
+        };
+        

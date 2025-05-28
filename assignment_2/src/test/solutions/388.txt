@@ -1,0 +1,1 @@
+Program([ConstDecl(x,IntLiteral(10)),ConstDecl(y,IntLiteral(20))])

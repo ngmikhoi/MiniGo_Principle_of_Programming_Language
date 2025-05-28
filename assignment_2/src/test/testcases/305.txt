@@ -1,0 +1,5 @@
+
+            func (Car c) drive() {
+                print("Driving");
+            }
+        

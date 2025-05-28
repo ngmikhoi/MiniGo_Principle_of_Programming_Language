@@ -1,0 +1,7 @@
+
+        type Person struct { name string; }
+        func main() {
+            var p Person = Person{name: "Alice"}
+            putStringLn(p.name)
+        }
+        

@@ -1,0 +1,10 @@
+
+            func factorialIter(n int) int {
+                var result = 1;
+                for n > 1 {
+                    result *= n;
+                    n -= 1;
+                }
+                return result;
+            }
+        

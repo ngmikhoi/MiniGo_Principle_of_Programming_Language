@@ -1,0 +1,2 @@
+Escaped newline "hello
+var y = 10;

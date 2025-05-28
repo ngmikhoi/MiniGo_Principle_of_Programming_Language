@@ -1,0 +1,1 @@
+Type Mismatch: Assign(Id(q),StructLiteral(Person,[(name,StringLiteral("Alice")),(age,IntLiteral(30))]))

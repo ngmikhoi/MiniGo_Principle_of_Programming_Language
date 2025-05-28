@@ -1,0 +1,6 @@
+
+            type Rectangle struct {
+                width float;
+                height float;
+            }
+        

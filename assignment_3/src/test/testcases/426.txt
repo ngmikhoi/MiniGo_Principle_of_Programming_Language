@@ -1,0 +1,1 @@
+Program([StructType(Broo,[(bro,IntType)],[]),MethodDecl(v,Id(Broo),FuncDecl(getInt,[],VoidType,Block([MethodCall(Id(v),getInt,[]),MethodCall(Id(v),putInt,[])])))])

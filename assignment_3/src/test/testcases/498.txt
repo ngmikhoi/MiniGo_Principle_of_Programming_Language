@@ -1,0 +1,7 @@
+
+        func Add(x int) int {
+            for y := 1; y<5; y += 1 {
+                var y = 10;
+            }
+        }
+        

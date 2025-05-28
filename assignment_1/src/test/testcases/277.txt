@@ -1,0 +1,7 @@
+
+            type Car struct {
+                func drive() {
+                    print("Driving");
+                }
+            }
+        

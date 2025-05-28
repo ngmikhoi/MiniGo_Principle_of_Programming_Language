@@ -1,0 +1,24 @@
+
+            type Shape interface  {
+                Area() float
+                Perimeter() float
+            }
+            
+            type Circle struct {
+                Radius float
+            }
+            
+            func (c Circle) Area() float {
+                return 3.14 * c.Radius * c.Radius
+            }
+            
+            func (c Circle) Perimeter() float {
+                return 2 * 3.14 * c.Radius
+            }
+            
+            func main() {
+                var c Circle = Circle{5.0}
+                print(c.Area())
+                print(c.Perimeter())
+            }
+            

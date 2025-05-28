@@ -1,0 +1,11 @@
+
+        type Printer interface { print() int; }
+        type Number struct { value int; }
+        func (n Number) print() int { return n.value; }
+        func main() {
+            var arr [2]Printer = [2]Printer{Number{value: 1}, Number{value: 2}}
+            for i := 0; i < 2; i += 1 {
+                putIntLn(arr[i].print())
+            }
+        }
+        

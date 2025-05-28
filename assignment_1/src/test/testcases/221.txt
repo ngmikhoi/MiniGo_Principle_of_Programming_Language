@@ -1,0 +1,5 @@
+
+            type Calculator struct {
+                add func(int, int) int;
+            };
+        

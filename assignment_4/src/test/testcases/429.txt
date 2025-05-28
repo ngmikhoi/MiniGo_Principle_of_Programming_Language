@@ -1,0 +1,9 @@
+
+        type Box struct { value int; }
+        func update(b Box) { b.value := 100; }
+        func main() {
+            var b Box = Box{value: 50}
+            update(b)
+            putIntLn(b.value)
+        }
+        

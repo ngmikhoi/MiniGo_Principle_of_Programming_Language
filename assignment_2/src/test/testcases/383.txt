@@ -1,0 +1,23 @@
+
+            func deepNest() {
+                if (a > b) {
+                    if (b > c) {
+                        if (c > d) {
+                            if (d > e) {
+                                if (e > f) {
+                                    if (f > g) {
+                                        if (g > h) {
+                                            if (h > i) {
+                                                if (i > j) {
+                                                    print("Too deep!");
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        

@@ -1,0 +1,16 @@
+
+        func main() string {
+            var arr = [3]int{10, 20, 30}
+            arr := [3]int{10, 20, 30}
+            var value int
+            for _, value := range arr {
+                // value: 10, 20, 30
+            }
+            var x = Ha("hihi") + 7
+        }
+        func Ha(a string) float {
+            var c int
+            var x = Ha(9) + 7
+            const s = "hello" + "haha"
+        }
+        

@@ -1,0 +1,8 @@
+
+            type Animal struct {
+                species string;
+            }
+            type Dog extends Animal {
+                breed string;
+            }
+        

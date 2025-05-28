@@ -1,0 +1,2 @@
+x = 5; // setting x
+y = 6;

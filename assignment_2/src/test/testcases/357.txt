@@ -1,0 +1,5 @@
+
+            func getPeople() [2]Person {
+                return [2]Person{Person{name: "Alice"}, Person{name: "Bob"}};
+            }
+        

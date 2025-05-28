@@ -1,0 +1,6 @@
+
+            type Point struct {
+                x float;
+                y float;
+            }
+        

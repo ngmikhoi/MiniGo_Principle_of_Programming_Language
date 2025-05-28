@@ -1,0 +1,10 @@
+
+        func main() {
+            var x int = 0
+            if (x != 0 && 10 / x > 1) {
+                putStringLn("Should not print")
+            } else {
+                putStringLn("Safe")
+            }
+        }
+        

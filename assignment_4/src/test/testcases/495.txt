@@ -1,0 +1,8 @@
+
+        type Item struct { id int; }
+        func process(items [2]Item) int { return items[1].id; }
+        func main() {
+            var items [2]Item = [2]Item{Item{id: 1}, Item{id: 2}}
+            putIntLn(process(items))
+        }
+        

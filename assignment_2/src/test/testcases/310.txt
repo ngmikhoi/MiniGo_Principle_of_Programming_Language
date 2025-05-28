@@ -1,0 +1,5 @@
+
+            func (Rectangle r) area() float {
+                return r.width * r.height;
+            }
+        
