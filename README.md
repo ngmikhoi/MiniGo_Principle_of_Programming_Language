@@ -19,7 +19,11 @@ By working with MiniGo, students gain hands-on experience in implementing a prog
 - **Built-in Functions:** Provides essential I/O functions.
 
 ## How to Run
-- Change current directory to assigment_1/src, assigment_2/src, assigment_3/src, assigment_4/src where there is file run.py type: python run.py gen
+- Change current directory to assigment_1/src, assigment_2/src, assigment_3/src, assigment_4/src where there is file run.py type:
+```python
+python run.py gen
+```
+
 - Then:
   + assigment_1/src type: python run.py test LexerSuite
   + assigment_1/src type: python run.py test ParserSuite
