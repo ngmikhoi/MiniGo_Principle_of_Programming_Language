@@ -4,10 +4,10 @@ This project is part of the *Principles of Programming Languages (CO3005)* cours
 ## Overview
 MiniGo is a simplified version of the Go programming language, designed for students to practice compiler development. It retains the core concepts of Go, such as basic data types, structs, and interfaces, while omitting more complex features like goroutines, channels, and the extensive standard library. The goal of MiniGo is to provide a manageable subset of Go that allows students to focus on fundamental concepts of programming language implementation, including:
 
-- Lexer, Parser in assignemt 1 (grade: 100/100)
-- Abstract Syntax Tree (grade: 97/100)
-- Static Checker (grade: 125/125)
-- Code Generator (grade: 101/101)
+- Lexer and Parser in assignemt 1 grade: 100/100 and 100/100
+- Abstract Syntax Tree in assignemt 2 grade: 97/100
+- Static Checker in assignemt 3 grade: 125/125
+- Code Generator in assignemt 4 grade: 101/101
 
 By working with MiniGo, students gain hands-on experience in implementing a programming language, helping them understand the underlying principles of language design and compiler construction.
 
