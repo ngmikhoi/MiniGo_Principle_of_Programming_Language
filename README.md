@@ -20,7 +20,7 @@ By working with MiniGo, students gain hands-on experience in implementing a prog
 
 ## How to Run
 - Change current directory to assigment_1/src, assigment_2/src, assigment_3/src, assigment_4/src where there is file run.py type: python run.py gen
-Then:
+- Then:
   + assigment_1/src type: python run.py test LexerSuite
   + assigment_1/src type: python run.py test ParserSuite
   + assigment_2/src type: python run.py test ASTGenSuite
